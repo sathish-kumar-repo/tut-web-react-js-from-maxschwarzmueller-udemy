@@ -17,3 +17,5 @@ def rename_files_in_folder(folder_path, prefix="react-course-slide"):
 # 📂 Replace this with your folder path
 folder_path = r"D:\course\Web Development\tut-web-react-js-from-maxschwarzmueller-udemy\Code\01 Intro of React"
 rename_files_in_folder(folder_path)
+
+# files = [f for f in files if f.endswith(".jpg")]
