@@ -15,7 +15,7 @@ def rename_files_in_folder(folder_path, prefix=""):
 
 
 # 📂 Replace this with your folder path
-folder_path = r"D:\course\Web Development\tut-web-react-js-mu\Code\28 Best Practices & Event Handling Quiz"
+folder_path = r"D:\course\Web Development\tut-web-react-js-mu\temp\TEMP"
 rename_files_in_folder(folder_path)
 
 # files = [f for f in files if f.endswith(".jpg")]
